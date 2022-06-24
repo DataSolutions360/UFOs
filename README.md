@@ -16,7 +16,7 @@ While using the webpage is an elementary task, and first glance, the data can be
 
 All filters are deemed function by this illustration and still reporting data.
 
-Below, I used the criteria DATE = '1/1/20100, City = 'la mesa', state = 'ca', COuntry = 'us', and UFO shape = 'triangle'.
+Below, I used the criteria DATE = '1/1/20100, City = 'la mesa', state = 'ca', Country = 'us', and UFO shape = 'triangle'.
 One row of data was returned.
 
 This is important to show the ALL filters applied are showing accurate data, and all filters are IN FORCE doing what they are supposed to.
